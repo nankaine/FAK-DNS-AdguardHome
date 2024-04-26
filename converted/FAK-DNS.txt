@@ -21894,6 +21894,7 @@ https://dns.yesdns.net:443/dns-query
 [/ecnu.net/]119.29.29.29 223.5.5.5
 [/ecnuas.com/]119.29.29.29 223.5.5.5
 [/ecnudec.com/]119.29.29.29 223.5.5.5
+[/eco-system.xyz/]119.29.29.29 223.5.5.5
 [/ecoalchina.com/]119.29.29.29 223.5.5.5
 [/ecocn.org/]119.29.29.29 223.5.5.5
 [/ecodreamers.com/]119.29.29.29 223.5.5.5
@@ -34693,6 +34694,7 @@ https://dns.yesdns.net:443/dns-query
 [/jianwenapp.com/]119.29.29.29 223.5.5.5
 [/jianxinyun.com/]119.29.29.29 223.5.5.5
 [/jianyanjia.com/]119.29.29.29 223.5.5.5
+[/jianyixinli.com/]119.29.29.29 223.5.5.5
 [/jianyu360.com/]119.29.29.29 223.5.5.5
 [/jianyujiasu.com/]119.29.29.29 223.5.5.5
 [/jianyuweb.com/]119.29.29.29 223.5.5.5
@@ -47396,7 +47398,6 @@ https://dns.yesdns.net:443/dns-query
 [/pipikou.com/]119.29.29.29 223.5.5.5
 [/pipikun.com/]119.29.29.29 223.5.5.5
 [/pipimp3.com/]119.29.29.29 223.5.5.5
-[/pipipan.com/]119.29.29.29 223.5.5.5
 [/pipipi.net/]119.29.29.29 223.5.5.5
 [/pipipifa.com/]119.29.29.29 223.5.5.5
 [/pipiti.com/]119.29.29.29 223.5.5.5
@@ -50899,7 +50900,6 @@ https://dns.yesdns.net:443/dns-query
 [/ruibai.com/]119.29.29.29 223.5.5.5
 [/ruiccm.com/]119.29.29.29 223.5.5.5
 [/ruichengmedia.com/]119.29.29.29 223.5.5.5
-[/ruichuangfagao.com/]119.29.29.29 223.5.5.5
 [/ruicitijian.com/]119.29.29.29 223.5.5.5
 [/ruida.org/]119.29.29.29 223.5.5.5
 [/ruidaedu.com/]119.29.29.29 223.5.5.5
@@ -51065,6 +51065,7 @@ https://dns.yesdns.net:443/dns-query
 [/ryjoin.com/]119.29.29.29 223.5.5.5
 [/rylfj.com/]119.29.29.29 223.5.5.5
 [/rylinkworld.com/]119.29.29.29 223.5.5.5
+[/rymcu.com/]119.29.29.29 223.5.5.5
 [/rymooc.com/]119.29.29.29 223.5.5.5
 [/ryone.net/]119.29.29.29 223.5.5.5
 [/rypeixun.com/]119.29.29.29 223.5.5.5
@@ -51878,7 +51879,6 @@ https://dns.yesdns.net:443/dns-query
 [/sectigochina.com/]119.29.29.29 223.5.5.5
 [/secu100.net/]119.29.29.29 223.5.5.5
 [/secure.globalsign.com/]119.29.29.29 223.5.5.5
-[/security.cdnetworks.com/]119.29.29.29 223.5.5.5
 [/securitycn.net/]119.29.29.29 223.5.5.5
 [/securityeb.com/]119.29.29.29 223.5.5.5
 [/securityfrontline.org/]119.29.29.29 223.5.5.5
@@ -53391,6 +53391,7 @@ https://dns.yesdns.net:443/dns-query
 [/shuomingshuku.com/]119.29.29.29 223.5.5.5
 [/shuoniu.cc/]119.29.29.29 223.5.5.5
 [/shuoou.com/]119.29.29.29 223.5.5.5
+[/shuoqiudi63.com/]119.29.29.29 223.5.5.5
 [/shuoshuo9.com/]119.29.29.29 223.5.5.5
 [/shuoshuoba.cc/]119.29.29.29 223.5.5.5
 [/shuoshuojie.net/]119.29.29.29 223.5.5.5
@@ -60596,6 +60597,7 @@ https://dns.yesdns.net:443/dns-query
 [/vxuepin.com/]119.29.29.29 223.5.5.5
 [/vxuey.com/]119.29.29.29 223.5.5.5
 [/vxv.ink/]119.29.29.29 223.5.5.5
+[/vxwo.com/]119.29.29.29 223.5.5.5
 [/vxxsfxxs.com/]119.29.29.29 223.5.5.5
 [/vycool.com/]119.29.29.29 223.5.5.5
 [/vyh9v.app/]119.29.29.29 223.5.5.5
@@ -72691,6 +72693,7 @@ https://dns.yesdns.net:443/dns-query
 [/zyiz.net/]119.29.29.29 223.5.5.5
 [/zyjiajuw.com/]119.29.29.29 223.5.5.5
 [/zyjoygame.com/]119.29.29.29 223.5.5.5
+[/zyjymall.com/]119.29.29.29 223.5.5.5
 [/zyjyyun.com/]119.29.29.29 223.5.5.5
 [/zykj0668.com/]119.29.29.29 223.5.5.5
 [/zykjgame.com/]119.29.29.29 223.5.5.5
