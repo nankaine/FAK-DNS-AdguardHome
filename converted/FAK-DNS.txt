@@ -2901,7 +2901,6 @@ https://dns.yesdns.net:443/dns-query
 [/360jq.com/]119.29.29.29 223.5.5.5
 [/360jrjietiao.com/]119.29.29.29 223.5.5.5
 [/360jrkt.com/]119.29.29.29 223.5.5.5
-[/360junshi.com/]119.29.29.29 223.5.5.5
 [/360jzhm.com/]119.29.29.29 223.5.5.5
 [/360kad.com/]119.29.29.29 223.5.5.5
 [/360kan.com/]119.29.29.29 223.5.5.5
@@ -8055,6 +8054,7 @@ https://dns.yesdns.net:443/dns-query
 [/aibank.com/]119.29.29.29 223.5.5.5
 [/aibank.link/]119.29.29.29 223.5.5.5
 [/aibaocloud.com/]119.29.29.29 223.5.5.5
+[/aibaohu.com/]119.29.29.29 223.5.5.5
 [/aibaov.com/]119.29.29.29 223.5.5.5
 [/aibaoxian.com/]119.29.29.29 223.5.5.5
 [/aibase.com/]119.29.29.29 223.5.5.5
@@ -8131,6 +8131,7 @@ https://dns.yesdns.net:443/dns-query
 [/aierfano.com/]119.29.29.29 223.5.5.5
 [/aieye8.com/]119.29.29.29 223.5.5.5
 [/aiezu.com/]119.29.29.29 223.5.5.5
+[/aifabu.com/]119.29.29.29 223.5.5.5
 [/aifamu.com/]119.29.29.29 223.5.5.5
 [/aifanfan.com/]119.29.29.29 223.5.5.5
 [/aifang.com/]119.29.29.29 223.5.5.5
@@ -11712,7 +11713,6 @@ https://dns.yesdns.net:443/dns-query
 [/bitauto.com/]119.29.29.29 223.5.5.5
 [/bitautoimg.com/]119.29.29.29 223.5.5.5
 [/bitautotech.com/]119.29.29.29 223.5.5.5
-[/bitbank.com/]119.29.29.29 223.5.5.5
 [/bitcar.com/]119.29.29.29 223.5.5.5
 [/bitcellulose.com/]119.29.29.29 223.5.5.5
 [/bitcongress.com/]119.29.29.29 223.5.5.5
@@ -17222,7 +17222,6 @@ https://dns.yesdns.net:443/dns-query
 [/cnzhanting.com/]119.29.29.29 223.5.5.5
 [/cnzhanzhang.com/]119.29.29.29 223.5.5.5
 [/cnzhengmu.com/]119.29.29.29 223.5.5.5
-[/cnzhibo.com/]119.29.29.29 223.5.5.5
 [/cnzhiyuanhui.com/]119.29.29.29 223.5.5.5
 [/cnzjj.com/]119.29.29.29 223.5.5.5
 [/cnzjol.com/]119.29.29.29 223.5.5.5
@@ -17966,6 +17965,7 @@ https://dns.yesdns.net:443/dns-query
 [/crsn168.com/]119.29.29.29 223.5.5.5
 [/cruelcoding.com/]119.29.29.29 223.5.5.5
 [/crvic.org/]119.29.29.29 223.5.5.5
+[/crx.plus/]119.29.29.29 223.5.5.5
 [/crx4.com/]119.29.29.29 223.5.5.5
 [/cry33.com/]119.29.29.29 223.5.5.5
 [/crym.cc/]119.29.29.29 223.5.5.5
@@ -18317,6 +18317,7 @@ https://dns.yesdns.net:443/dns-query
 [/cupddns.net/]119.29.29.29 223.5.5.5
 [/cupdns.com/]119.29.29.29 223.5.5.5
 [/cupfox.com/]119.29.29.29 223.5.5.5
+[/cupfox.love/]119.29.29.29 223.5.5.5
 [/cupinn.com/]119.29.29.29 223.5.5.5
 [/cuplayer.com/]119.29.29.29 223.5.5.5
 [/curlc.com/]119.29.29.29 223.5.5.5
@@ -23954,7 +23955,6 @@ https://dns.yesdns.net:443/dns-query
 [/fhyx.hk/]119.29.29.29 223.5.5.5
 [/fi-play.com/]119.29.29.29 223.5.5.5
 [/fi0.cc/]119.29.29.29 223.5.5.5
-[/fi11sp84.com/]119.29.29.29 223.5.5.5
 [/fi1818.com/]119.29.29.29 223.5.5.5
 [/fi94.com/]119.29.29.29 223.5.5.5
 [/fibercrops.com/]119.29.29.29 223.5.5.5
@@ -25844,7 +25844,6 @@ https://dns.yesdns.net:443/dns-query
 [/ggqx.com/]119.29.29.29 223.5.5.5
 [/ggsafe.com/]119.29.29.29 223.5.5.5
 [/ggsq.cc/]119.29.29.29 223.5.5.5
-[/ggt1024.com/]119.29.29.29 223.5.5.5
 [/ggtiku.com/]119.29.29.29 223.5.5.5
 [/ggwan.com/]119.29.29.29 223.5.5.5
 [/ggwan.net/]119.29.29.29 223.5.5.5
@@ -27407,6 +27406,7 @@ https://dns.yesdns.net:443/dns-query
 [/gyrsy.com/]119.29.29.29 223.5.5.5
 [/gyscw.com/]119.29.29.29 223.5.5.5
 [/gysdzy.com/]119.29.29.29 223.5.5.5
+[/gyshwl.online/]119.29.29.29 223.5.5.5
 [/gysk.com/]119.29.29.29 223.5.5.5
 [/gysou.com/]119.29.29.29 223.5.5.5
 [/gysq.org/]119.29.29.29 223.5.5.5
@@ -29567,6 +29567,7 @@ https://dns.yesdns.net:443/dns-query
 [/hisofts.com/]119.29.29.29 223.5.5.5
 [/hisonracking.com/]119.29.29.29 223.5.5.5
 [/histarter.com/]119.29.29.29 223.5.5.5
+[/historychina.net/]119.29.29.29 223.5.5.5
 [/hisugar.com/]119.29.29.29 223.5.5.5
 [/hisupplier.com/]119.29.29.29 223.5.5.5
 [/hit-shop.hk/]119.29.29.29 223.5.5.5
@@ -35085,7 +35086,6 @@ https://dns.yesdns.net:443/dns-query
 [/jinbaobeiqiming.com/]119.29.29.29 223.5.5.5
 [/jinbaoidc.com/]119.29.29.29 223.5.5.5
 [/jinbaonet.com/]119.29.29.29 223.5.5.5
-[/jinbei.com/]119.29.29.29 223.5.5.5
 [/jinbiaohui.com/]119.29.29.29 223.5.5.5
 [/jinbiaojv.com/]119.29.29.29 223.5.5.5
 [/jinbifun.com/]119.29.29.29 223.5.5.5
@@ -35245,7 +35245,6 @@ https://dns.yesdns.net:443/dns-query
 [/jinju8.com/]119.29.29.29 223.5.5.5
 [/jinjunmei.net/]119.29.29.29 223.5.5.5
 [/jinkan.org/]119.29.29.29 223.5.5.5
-[/jinkaotong.com/]119.29.29.29 223.5.5.5
 [/jinkejoy.com/]119.29.29.29 223.5.5.5
 [/jinkeluo.com/]119.29.29.29 223.5.5.5
 [/jinkex.com/]119.29.29.29 223.5.5.5
@@ -37038,6 +37037,7 @@ https://dns.yesdns.net:443/dns-query
 [/kakalili.com/]119.29.29.29 223.5.5.5
 [/kakamobi.com/]119.29.29.29 223.5.5.5
 [/kakappt.com/]119.29.29.29 223.5.5.5
+[/kakayuy.net/]119.29.29.29 223.5.5.5
 [/kakucloud.com/]119.29.29.29 223.5.5.5
 [/kala.love/]119.29.29.29 223.5.5.5
 [/kalading.com/]119.29.29.29 223.5.5.5
@@ -41975,7 +41975,6 @@ https://dns.yesdns.net:443/dns-query
 [/maplef.net/]119.29.29.29 223.5.5.5
 [/mapmapping.com/]119.29.29.29 223.5.5.5
 [/mappn.com/]119.29.29.29 223.5.5.5
-[/mapsence.com/]119.29.29.29 223.5.5.5
 [/maptalks.com/]119.29.29.29 223.5.5.5
 [/maqingbo.com/]119.29.29.29 223.5.5.5
 [/maqingxi.com/]119.29.29.29 223.5.5.5
@@ -43788,6 +43787,7 @@ https://dns.yesdns.net:443/dns-query
 [/mquan.fun/]119.29.29.29 223.5.5.5
 [/mquan.net/]119.29.29.29 223.5.5.5
 [/mquanquan.com/]119.29.29.29 223.5.5.5
+[/mqxs8.com/]119.29.29.29 223.5.5.5
 [/mqxww.com/]119.29.29.29 223.5.5.5
 [/mr-ping.com/]119.29.29.29 223.5.5.5
 [/mr77.com/]119.29.29.29 223.5.5.5
@@ -45116,7 +45116,6 @@ https://dns.yesdns.net:443/dns-query
 [/nikanpian.com/]119.29.29.29 223.5.5.5
 [/nike-inc.com.tw/]119.29.29.29 223.5.5.5
 [/nikebiji.com/]119.29.29.29 223.5.5.5
-[/nikenike2015.com.tw/]119.29.29.29 223.5.5.5
 [/nikkisoft.com/]119.29.29.29 223.5.5.5
 [/nikkiup2u2.com/]119.29.29.29 223.5.5.5
 [/nilai.com/]119.29.29.29 223.5.5.5
@@ -45393,7 +45392,6 @@ https://dns.yesdns.net:443/dns-query
 [/nntskq.com/]119.29.29.29 223.5.5.5
 [/nntxw.com/]119.29.29.29 223.5.5.5
 [/nnwb.com/]119.29.29.29 223.5.5.5
-[/nnykzy120.com/]119.29.29.29 223.5.5.5
 [/nnynrc.com/]119.29.29.29 223.5.5.5
 [/nnzgh.org/]119.29.29.29 223.5.5.5
 [/nnzsxblaw.com/]119.29.29.29 223.5.5.5
@@ -46692,6 +46690,7 @@ https://dns.yesdns.net:443/dns-query
 [/pacfc.com/]119.29.29.29 223.5.5.5
 [/pacgatelaw.com/]119.29.29.29 223.5.5.5
 [/pacificchinaaero.com/]119.29.29.29 223.5.5.5
+[/pacilution.com/]119.29.29.29 223.5.5.5
 [/packsky.com/]119.29.29.29 223.5.5.5
 [/packtom.com/]119.29.29.29 223.5.5.5
 [/packty.com/]119.29.29.29 223.5.5.5
@@ -50215,6 +50214,7 @@ https://dns.yesdns.net:443/dns-query
 [/raygame4.com/]119.29.29.29 223.5.5.5
 [/rayjoy.com/]119.29.29.29 223.5.5.5
 [/rayli.com/]119.29.29.29 223.5.5.5
+[/raylink.live/]119.29.29.29 223.5.5.5
 [/raymx-micro.com/]119.29.29.29 223.5.5.5
 [/rayoptek.com/]119.29.29.29 223.5.5.5
 [/rayp.com/]119.29.29.29 223.5.5.5
@@ -50222,6 +50222,7 @@ https://dns.yesdns.net:443/dns-query
 [/rayrjx.com/]119.29.29.29 223.5.5.5
 [/rayseasc.com/]119.29.29.29 223.5.5.5
 [/raysilicon.com/]119.29.29.29 223.5.5.5
+[/raysync.cloud/]119.29.29.29 223.5.5.5
 [/raythonsoft.com/]119.29.29.29 223.5.5.5
 [/raytoon.net/]119.29.29.29 223.5.5.5
 [/rayuu.com/]119.29.29.29 223.5.5.5
@@ -54868,6 +54869,7 @@ https://dns.yesdns.net:443/dns-query
 [/souxw.com/]119.29.29.29 223.5.5.5
 [/souya.com/]119.29.29.29 223.5.5.5
 [/souyidai.com/]119.29.29.29 223.5.5.5
+[/souyoutu.com/]119.29.29.29 223.5.5.5
 [/souyue.mobi/]119.29.29.29 223.5.5.5
 [/souyunku.com/]119.29.29.29 223.5.5.5
 [/sov2ex.com/]119.29.29.29 223.5.5.5
@@ -55245,6 +55247,7 @@ https://dns.yesdns.net:443/dns-query
 [/stbieshu.com/]119.29.29.29 223.5.5.5
 [/stc2002.com/]119.29.29.29 223.5.5.5
 [/stcaimcu.com/]119.29.29.29 223.5.5.5
+[/stcfile.com/]119.29.29.29 223.5.5.5
 [/stcmcu.com/]119.29.29.29 223.5.5.5
 [/stcmcudata.com/]119.29.29.29 223.5.5.5
 [/stcn.com/]119.29.29.29 223.5.5.5
@@ -55831,7 +55834,6 @@ https://dns.yesdns.net:443/dns-query
 [/swordofmorning.com/]119.29.29.29 223.5.5.5
 [/swordtt.com/]119.29.29.29 223.5.5.5
 [/swotbbs.com/]119.29.29.29 223.5.5.5
-[/swq5t.com/]119.29.29.29 223.5.5.5
 [/swsbw.com/]119.29.29.29 223.5.5.5
 [/swsm.net/]119.29.29.29 223.5.5.5
 [/swsmu.com/]119.29.29.29 223.5.5.5
@@ -56304,7 +56306,6 @@ https://dns.yesdns.net:443/dns-query
 [/szmctc.com/]119.29.29.29 223.5.5.5
 [/szmengqukj.com/]119.29.29.29 223.5.5.5
 [/szmhthb.com/]119.29.29.29 223.5.5.5
-[/szmianfei.com/]119.29.29.29 223.5.5.5
 [/szmil.com/]119.29.29.29 223.5.5.5
 [/szmingbiao.com/]119.29.29.29 223.5.5.5
 [/szmjd.com/]119.29.29.29 223.5.5.5
@@ -63699,6 +63700,7 @@ https://dns.yesdns.net:443/dns-query
 [/wxsgf.com/]119.29.29.29 223.5.5.5
 [/wxshake.com/]119.29.29.29 223.5.5.5
 [/wxsteed.com/]119.29.29.29 223.5.5.5
+[/wxsy.net/]119.29.29.29 223.5.5.5
 [/wxt2020.com/]119.29.29.29 223.5.5.5
 [/wxtdf.com/]119.29.29.29 223.5.5.5
 [/wxthe.com/]119.29.29.29 223.5.5.5
@@ -63992,6 +63994,7 @@ https://dns.yesdns.net:443/dns-query
 [/xbiquge.la/]119.29.29.29 223.5.5.5
 [/xbiquge.tw/]119.29.29.29 223.5.5.5
 [/xbiqugu.info/]119.29.29.29 223.5.5.5
+[/xbiqugu.net/]119.29.29.29 223.5.5.5
 [/xbiqukan.com/]119.29.29.29 223.5.5.5
 [/xbiquku.com/]119.29.29.29 223.5.5.5
 [/xbiquwx.la/]119.29.29.29 223.5.5.5
@@ -64148,6 +64151,7 @@ https://dns.yesdns.net:443/dns-query
 [/xdrtc.com/]119.29.29.29 223.5.5.5
 [/xdrun.com/]119.29.29.29 223.5.5.5
 [/xdsipo.com/]119.29.29.29 223.5.5.5
+[/xdsp.mobi/]119.29.29.29 223.5.5.5
 [/xdter.com/]119.29.29.29 223.5.5.5
 [/xdtos.com/]119.29.29.29 223.5.5.5
 [/xduoo.com/]119.29.29.29 223.5.5.5
@@ -65508,7 +65512,6 @@ https://dns.yesdns.net:443/dns-query
 [/xixik.com/]119.29.29.29 223.5.5.5
 [/xixik.net/]119.29.29.29 223.5.5.5
 [/xixin123.com/]119.29.29.29 223.5.5.5
-[/xixingyou.com/]119.29.29.29 223.5.5.5
 [/xixinv.com/]119.29.29.29 223.5.5.5
 [/xixiqipai.com/]119.29.29.29 223.5.5.5
 [/xixisys.com/]119.29.29.29 223.5.5.5
@@ -66072,6 +66075,7 @@ https://dns.yesdns.net:443/dns-query
 [/xsy.science/]119.29.29.29 223.5.5.5
 [/xsycps.com/]119.29.29.29 223.5.5.5
 [/xsyk021.com/]119.29.29.29 223.5.5.5
+[/xsyq.cc/]119.29.29.29 223.5.5.5
 [/xsyqmztg.com/]119.29.29.29 223.5.5.5
 [/xsyx.xyz/]119.29.29.29 223.5.5.5
 [/xsyxsc.com/]119.29.29.29 223.5.5.5
@@ -66143,6 +66147,7 @@ https://dns.yesdns.net:443/dns-query
 [/xuanwu88.com/]119.29.29.29 223.5.5.5
 [/xuanwumobile.com/]119.29.29.29 223.5.5.5
 [/xuanwww.com/]119.29.29.29 223.5.5.5
+[/xuanxiaodi.com/]119.29.29.29 223.5.5.5
 [/xuanxiaozhuanjia.com/]119.29.29.29 223.5.5.5
 [/xuanxuan.com/]119.29.29.29 223.5.5.5
 [/xuanxuangame.com/]119.29.29.29 223.5.5.5
@@ -66289,6 +66294,7 @@ https://dns.yesdns.net:443/dns-query
 [/xulizui6.com/]119.29.29.29 223.5.5.5
 [/xulv.net/]119.29.29.29 223.5.5.5
 [/xumenger.com/]119.29.29.29 223.5.5.5
+[/xumengwang.com/]119.29.29.29 223.5.5.5
 [/xumingxiang.com/]119.29.29.29 223.5.5.5
 [/xumurc.com/]119.29.29.29 223.5.5.5
 [/xun1688.com/]119.29.29.29 223.5.5.5
@@ -67833,6 +67839,7 @@ https://dns.yesdns.net:443/dns-query
 [/yiparts.com/]119.29.29.29 223.5.5.5
 [/yipemail.com/]119.29.29.29 223.5.5.5
 [/yipeng888.com/]119.29.29.29 223.5.5.5
+[/yipiaoyun.com/]119.29.29.29 223.5.5.5
 [/yipihuo.com/]119.29.29.29 223.5.5.5
 [/yipingmi.vip/]119.29.29.29 223.5.5.5
 [/yipingsj.com/]119.29.29.29 223.5.5.5
@@ -68244,6 +68251,7 @@ https://dns.yesdns.net:443/dns-query
 [/ymraaa.com/]119.29.29.29 223.5.5.5
 [/ymrcw.vip/]119.29.29.29 223.5.5.5
 [/yms.cool/]119.29.29.29 223.5.5.5
+[/ymsss.com/]119.29.29.29 223.5.5.5
 [/ymsteam.com/]119.29.29.29 223.5.5.5
 [/ymt.com/]119.29.29.29 223.5.5.5
 [/ymt360.com/]119.29.29.29 223.5.5.5
@@ -68909,6 +68917,7 @@ https://dns.yesdns.net:443/dns-query
 [/yqtc.com/]119.29.29.29 223.5.5.5
 [/yqw188.com/]119.29.29.29 223.5.5.5
 [/yqwfpy.com/]119.29.29.29 223.5.5.5
+[/yqwxw.cc/]119.29.29.29 223.5.5.5
 [/yqwyx.xyz/]119.29.29.29 223.5.5.5
 [/yqxiuyoung.com/]119.29.29.29 223.5.5.5
 [/yqxs.cc/]119.29.29.29 223.5.5.5
@@ -69575,6 +69584,7 @@ https://dns.yesdns.net:443/dns-query
 [/yuntuiweishang.com/]119.29.29.29 223.5.5.5
 [/yuntuoguan.cc/]119.29.29.29 223.5.5.5
 [/yuntuys.com/]119.29.29.29 223.5.5.5
+[/yunverify.com/]119.29.29.29 223.5.5.5
 [/yunvm.com/]119.29.29.29 223.5.5.5
 [/yunwei8.com/]119.29.29.29 223.5.5.5
 [/yunweibang.com/]119.29.29.29 223.5.5.5
