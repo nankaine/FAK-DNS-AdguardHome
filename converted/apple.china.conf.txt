@@ -31,6 +31,7 @@
 [/cl1-cdn.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/cl1.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/cl2-cn.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
+[/cl2.apple.com.edgekey.net.globalredir.akadns.net/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/cl2.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/cl3-cdn.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/cl3.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
@@ -56,6 +57,7 @@
 [/gs-loc-cn.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/gs-loc.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/gsp10-ssl-cn.ls.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
+[/gsp11-cn.ls.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/gsp12-cn.ls.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/gsp13-cn.ls.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
@@ -74,8 +76,6 @@
 [/guzzoni.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/guzzoni.smoot.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/iadsdk.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
-[/icloud-cdn.icloud.com.akadns.net/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
-[/icloud.cdn-apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/init-kt.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/init-p01md-lb.push-apple.com.akadns.net/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
@@ -108,20 +108,16 @@
 [/mesu.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/ml.cdn-apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/music.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
-[/ocsp-lb.apple.com.akadns.net/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/ocsp.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
-[/ocsp2-lb.apple.com.akadns.net/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/ocsp2.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/oscdn.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/oscdn.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/osxapps.itunes.g.aaplimg.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/pancake.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
-[/pancake.cdn-apple.com.akadns.net/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/pba0.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/probe.siri.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/prod-support.apple-support.akadns.net/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/publicassets.cdn-apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
-[/reserve-prime.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/s.mzstatic.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/seed-sequoia.siri.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/seed-swallow.siri.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
