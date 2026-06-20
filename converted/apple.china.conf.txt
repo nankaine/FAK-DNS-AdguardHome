@@ -103,6 +103,7 @@
 [/itunes-apple.com.akadns.net/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/itunes.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/itunesconnect.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
+[/mensura.cdn-apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/mesu-cdn.apple.com.akadns.net/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/mesu-china.apple.com.akadns.net/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
 [/mesu.apple.com/]https://223.5.5.5/dns-query https://223.6.6.6/dns-query https://doh.pub/dns-query
